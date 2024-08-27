@@ -1,285 +1,286 @@
-[
-  {
-    "product_id": "H001",
-    "title": "Milton Thermosteel Flask, 500ml",
-    "brand": "Milton",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71Hk0DHkJfL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.7
+{
+  "homeKitchen" : [
+    {
+      "product_id": "H001",
+      "title": "Milton Thermosteel Flask, 500ml",
+      "brand": "Milton",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71Hk0DHkJfL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.7
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H002",
-    "title": "Cello Plastic Storage Container Set, 18 Pieces",
-    "brand": "Cello",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81w+zQAOAPL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.4
+    {
+      "product_id": "H002",
+      "title": "Cello Plastic Storage Container Set, 18 Pieces",
+      "brand": "Cello",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81w+zQAOAPL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.4
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 479
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 479
-    }
-  },
-  {
-    "product_id": "H003",
-    "title": "Pigeon By Stovekraft Mini Handy Chopper",
-    "brand": "Pigeon",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71p+YaTKgsL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.6
+    {
+      "product_id": "H003",
+      "title": "Pigeon By Stovekraft Mini Handy Chopper",
+      "brand": "Pigeon",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71p+YaTKgsL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.6
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 399
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 399
-    }
-  },
-  {
-    "product_id": "H004",
-    "title": "Prestige PIC 20 Induction Cooktop",
-    "brand": "Prestige",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/91Ul3cV9lgL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.3
+    {
+      "product_id": "H004",
+      "title": "Prestige PIC 20 Induction Cooktop",
+      "brand": "Prestige",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/91Ul3cV9lgL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.3
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H005",
-    "title": "AmazonBasics 3-Piece Non-Stick Fry Pan Set",
-    "brand": "AmazonBasics",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81W4I16SiZL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.5
+    {
+      "product_id": "H005",
+      "title": "AmazonBasics 3-Piece Non-Stick Fry Pan Set",
+      "brand": "AmazonBasics",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81W4I16SiZL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.5
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 479
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 479
-    }
-  },
-  {
-    "product_id": "H006",
-    "title": "Hawkins Futura Nonstick Tawa, 26cm",
-    "brand": "Hawkins",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/91sOGt1fbEL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.7
+    {
+      "product_id": "H006",
+      "title": "Hawkins Futura Nonstick Tawa, 26cm",
+      "brand": "Hawkins",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/91sOGt1fbEL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.7
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H007",
-    "title": "Solimo Stainless Steel Vacuum Insulated Flask, 500ml",
-    "brand": "Solimo",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81fg8O1uujL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.4
+    {
+      "product_id": "H007",
+      "title": "Solimo Stainless Steel Vacuum Insulated Flask, 500ml",
+      "brand": "Solimo",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81fg8O1uujL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.4
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 479
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 479
-    }
-  },
-  {
-    "product_id": "H008",
-    "title": "Wonderchef Granite Non-Stick Fry Pan, 24cm",
-    "brand": "Wonderchef",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71QibOnOXFL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.6
+    {
+      "product_id": "H008",
+      "title": "Wonderchef Granite Non-Stick Fry Pan, 24cm",
+      "brand": "Wonderchef",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71QibOnOXFL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.6
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H009",
-    "title": "Philips Daily Collection HD2582/00 2-Slice Pop-up Toaster",
-    "brand": "Philips",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71-NDAbULuL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.5
+    {
+      "product_id": "H009",
+      "title": "Philips Daily Collection HD2582/00 2-Slice Pop-up Toaster",
+      "brand": "Philips",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71-NDAbULuL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.5
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 489
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 489
-    }
-  },
-  {
-    "product_id": "H010",
-    "title": "Borosil Glass Mixing Bowl Set, 3 Pieces",
-    "brand": "Borosil",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71NsTtiVZnL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.3
+    {
+      "product_id": "H010",
+      "title": "Borosil Glass Mixing Bowl Set, 3 Pieces",
+      "brand": "Borosil",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71NsTtiVZnL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.3
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 399
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 399
-    }
-  },
-  {
-    "product_id": "H011",
-    "title": "Cello Opalware Dinner Set, 18 Pieces",
-    "brand": "Cello",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71RmFfTspgL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.7
+    {
+      "product_id": "H011",
+      "title": "Cello Opalware Dinner Set, 18 Pieces",
+      "brand": "Cello",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71RmFfTspgL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.7
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H012",
-    "title": "Godrej Aer Matic Air Freshener Kit",
-    "brand": "Godrej",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71ZhtJlZkhL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.2
+    {
+      "product_id": "H012",
+      "title": "Godrej Aer Matic Air Freshener Kit",
+      "brand": "Godrej",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71ZhtJlZkhL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.2
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 299
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 299
-    }
-  },
-  {
-    "product_id": "H013",
-    "title": "Butterfly Smart Wet Grinder, 2L",
-    "brand": "Butterfly",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/51mDaJWBVUL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.3
+    {
+      "product_id": "H013",
+      "title": "Butterfly Smart Wet Grinder, 2L",
+      "brand": "Butterfly",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/51mDaJWBVUL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.3
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H014",
-    "title": "Cello Click It Ice Cube Tray Set",
-    "brand": "Cello",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81DUS5GJrQL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.5
+    {
+      "product_id": "H014",
+      "title": "Cello Click It Ice Cube Tray Set",
+      "brand": "Cello",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81DUS5GJrQL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.5
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 299
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 299
-    }
-  },
-  {
-    "product_id": "H015",
-    "title": "Prestige Omega Select Plus Non-Stick Kadai, 20cm",
-    "brand": "Prestige",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/61QsUPcZjRL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.7
+    {
+      "product_id": "H015",
+      "title": "Prestige Omega Select Plus Non-Stick Kadai, 20cm",
+      "brand": "Prestige",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/61QsUPcZjRL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.7
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H016",
-    "title": "Amazon Brand - Solimo Non-Stick Tawa, 25cm",
-    "brand": "Solimo",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81pAFybJsyL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.4
+    {
+      "product_id": "H016",
+      "title": "Amazon Brand - Solimo Non-Stick Tawa, 25cm",
+      "brand": "Solimo",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81pAFybJsyL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.4
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 399
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 399
-    }
-  },
-  {
-    "product_id": "H017",
-    "title": "Milton Thermoware Casserole, 1500ml",
-    "brand": "Milton",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/71NrmKkpuZL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.6
+    {
+      "product_id": "H017",
+      "title": "Milton Thermoware Casserole, 1500ml",
+      "brand": "Milton",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/71NrmKkpuZL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.6
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H018",
-    "title": "Pigeon by Stovekraft Favourite Kettle, 1.5L",
-    "brand": "Pigeon",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/61vB2yCz8pL._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.5
+    {
+      "product_id": "H018",
+      "title": "Pigeon by Stovekraft Favourite Kettle, 1.5L",
+      "brand": "Pigeon",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/61vB2yCz8pL._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.5
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 499
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 499
-    }
-  },
-  {
-    "product_id": "H019",
-    "title": "Prestige Stainless Steel Knife Set, 3 Pieces",
-    "brand": "Prestige",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/81h-jmgxD4L._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.3
+    {
+      "product_id": "H019",
+      "title": "Prestige Stainless Steel Knife Set, 3 Pieces",
+      "brand": "Prestige",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/81h-jmgxD4L._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.3
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 349
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 349
-    }
-  },
-  {
-    "product_id": "H020",
-    "title": "Home Centre Polyester Microwave Oven Cover",
-    "brand": "Home Centre",
-    "category": "Home & Kitchen",
-    "image": "https://m.media-amazon.com/images/I/91ovC2aOe-L._AC_SX522_.jpg",
-    "rating": {
-      "stars": 4.1
+    {
+      "product_id": "H020",
+      "title": "Home Centre Polyester Microwave Oven Cover",
+      "brand": "Home Centre",
+      "category": "Home & Kitchen",
+      "image": "https://m.media-amazon.com/images/I/91ovC2aOe-L._AC_SX522_.jpg",
+      "rating": {
+        "stars": 4.1
+      },
+      "price": {
+        "currency": "INR",
+        "amount": 249
+      }
     },
-    "price": {
-      "currency": "INR",
-      "amount": 249
-    }
-  },
-  {
+    {
       "product_id": "H021",
       "title": "Philips 1.2-Litre Electric Kettle",
       "brand": "Philips",
@@ -418,7 +419,9 @@
         "currency": "INR",
         "amount": 899
       }
-    },
+    }
+  ],
+  "personalCare" : [
     {
       "product_id": "P001",
       "title": "NIVEA Body Lotion, 400ml",
@@ -656,7 +659,9 @@
         "currency": "INR",
         "amount": 899
       }
-    },
+    }
+  ],
+  "electroics" : [
     {
       "product_id": "E001",
       "title": "Zebronics USB Wired Mouse",
@@ -937,4 +942,5 @@
         "amount": 899
       }
     }
-]
+  ]
+}

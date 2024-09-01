@@ -1,5 +1,5 @@
 {
-  "homeKitchen" : [
+  "products": [
     {
       "product_id": "H001",
       "title": "Milton Thermosteel Flask, 500ml",
@@ -419,9 +419,7 @@
         "currency": "INR",
         "amount": 899
       }
-    }
-  ],
-  "personalCare" : [
+    },
     {
       "product_id": "P001",
       "title": "NIVEA Body Lotion, 400ml",
@@ -659,9 +657,7 @@
         "currency": "INR",
         "amount": 899
       }
-    }
-  ],
-  "electroics" : [
+    },
     {
       "product_id": "E001",
       "title": "Zebronics USB Wired Mouse",

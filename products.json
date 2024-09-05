@@ -1,942 +1,704 @@
 {
   "products": [
     {
-      "product_id": "H001",
-      "title": "Milton Thermosteel Flask, 500ml",
-      "brand": "Milton",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71Hk0DHkJfL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H002",
-      "title": "Cello Plastic Storage Container Set, 18 Pieces",
-      "brand": "Cello",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81w+zQAOAPL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 479
-      }
-    },
-    {
-      "product_id": "H003",
-      "title": "Pigeon By Stovekraft Mini Handy Chopper",
-      "brand": "Pigeon",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71p+YaTKgsL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "H004",
-      "title": "Prestige PIC 20 Induction Cooktop",
-      "brand": "Prestige",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/91Ul3cV9lgL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H005",
-      "title": "AmazonBasics 3-Piece Non-Stick Fry Pan Set",
-      "brand": "AmazonBasics",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81W4I16SiZL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 479
-      }
-    },
-    {
-      "product_id": "H006",
-      "title": "Hawkins Futura Nonstick Tawa, 26cm",
-      "brand": "Hawkins",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/91sOGt1fbEL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H007",
-      "title": "Solimo Stainless Steel Vacuum Insulated Flask, 500ml",
-      "brand": "Solimo",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81fg8O1uujL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 479
-      }
-    },
-    {
-      "product_id": "H008",
-      "title": "Wonderchef Granite Non-Stick Fry Pan, 24cm",
-      "brand": "Wonderchef",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71QibOnOXFL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H009",
-      "title": "Philips Daily Collection HD2582/00 2-Slice Pop-up Toaster",
-      "brand": "Philips",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71-NDAbULuL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 489
-      }
-    },
-    {
-      "product_id": "H010",
-      "title": "Borosil Glass Mixing Bowl Set, 3 Pieces",
-      "brand": "Borosil",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71NsTtiVZnL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "H011",
-      "title": "Cello Opalware Dinner Set, 18 Pieces",
-      "brand": "Cello",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71RmFfTspgL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H012",
-      "title": "Godrej Aer Matic Air Freshener Kit",
-      "brand": "Godrej",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71ZhtJlZkhL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.2
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "H013",
-      "title": "Butterfly Smart Wet Grinder, 2L",
-      "brand": "Butterfly",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/51mDaJWBVUL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H014",
-      "title": "Cello Click It Ice Cube Tray Set",
-      "brand": "Cello",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81DUS5GJrQL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "H015",
-      "title": "Prestige Omega Select Plus Non-Stick Kadai, 20cm",
-      "brand": "Prestige",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/61QsUPcZjRL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H016",
-      "title": "Amazon Brand - Solimo Non-Stick Tawa, 25cm",
-      "brand": "Solimo",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81pAFybJsyL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "H017",
-      "title": "Milton Thermoware Casserole, 1500ml",
-      "brand": "Milton",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71NrmKkpuZL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H018",
-      "title": "Pigeon by Stovekraft Favourite Kettle, 1.5L",
-      "brand": "Pigeon",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/61vB2yCz8pL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "H019",
-      "title": "Prestige Stainless Steel Knife Set, 3 Pieces",
-      "brand": "Prestige",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81h-jmgxD4L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 349
-      }
-    },
-    {
-      "product_id": "H020",
-      "title": "Home Centre Polyester Microwave Oven Cover",
-      "brand": "Home Centre",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/91ovC2aOe-L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.1
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 249
-      }
-    },
-    {
-      "product_id": "H021",
-      "title": "Philips 1.2-Litre Electric Kettle",
-      "brand": "Philips",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71xUCkbZ-XL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "H022",
-      "title": "Borosil Glass Mixing Bowl Set, 4 Pieces",
-      "brand": "Borosil",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71NkDiI3haL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 949
-      }
-    },
-    {
-      "product_id": "H023",
-      "title": "Prestige Omega Select Plus Non-Stick Cookware Set, 3 Pieces",
-      "brand": "Prestige",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81A1Z1OvdiL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "H024",
-      "title": "AmazonBasics Non-Stick Frying Pan Set, 3 Pieces",
-      "brand": "AmazonBasics",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/81PVNlgQ8DL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "H025",
-      "title": "Hawkins Futura Nonstick Deep-Fry Pan, 26cm",
-      "brand": "Hawkins",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/61yTjq5G5ZL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 949
-      }
-    },
-    {
-      "product_id": "H026",
-      "title": "Pigeon by Stovekraft 2 Burner Glass Gas Stove",
-      "brand": "Pigeon",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/715COzZ9N6L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "H027",
-      "title": "Milton Thermosteel Carafe, 1000ml",
-      "brand": "Milton",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/61fAFLATxXL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 799
-      }
-    },
-    {
-      "product_id": "H028",
-      "title": "Wonderchef Granite Non-Stick Cookware Set, 2 Pieces",
-      "brand": "Wonderchef",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71D6B0vub+L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 949
-      }
-    },
-    {
-      "product_id": "H029",
-      "title": "Butterfly Smart Mixer Grinder, 750W",
-      "brand": "Butterfly",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/51Q-FZ37cbL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "H030",
-      "title": "Cello 3-Litre Induction Compatible Pressure Cooker",
-      "brand": "Cello",
-      "category": "Home & Kitchen",
-      "image": "https://m.media-amazon.com/images/I/71FTAT+xTVL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "P001",
-      "title": "NIVEA Body Lotion, 400ml",
-      "brand": "NIVEA",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71zOd5y1PmL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 349
-      }
-    },
-    {
-      "product_id": "P002",
-      "title": "Dove Intense Repair Shampoo, 650ml",
-      "brand": "Dove",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/81X2HpZ4y-L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 449
-      }
-    },
-    {
-      "product_id": "P003",
-      "title": "Colgate Advanced Whitening Toothpaste, 2x200g",
-      "brand": "Colgate",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71m8j8ZsZcL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "P004",
-      "title": "Vaseline Intensive Care Aloe Fresh Body Lotion, 400ml",
-      "brand": "Vaseline",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/81SYqxN6P1L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 375
-      }
-    },
-    {
-      "product_id": "P005",
-      "title": "Gillette Fusion5 Razor with 1 Cartridge",
-      "brand": "Gillette",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71eBN0VRcPL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.7
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "P006",
-      "title": "Himalaya Purifying Neem Face Wash, 400ml",
-      "brand": "Himalaya",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/61leAtPBlHL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 325
-      }
-    },
-    {
-      "product_id": "P007",
-      "title": "Lakme Peach Milk Soft Creme, 200g",
-      "brand": "Lakme",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/61ojE0Z8ebL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "P008",
-      "title": "Head & Shoulders Anti-Dandruff Shampoo, 340ml",
-      "brand": "Head & Shoulders",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71vXLHeKPPL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 349
-      }
-    },
-    {
-      "product_id": "P009",
-      "title": "L'Oréal Paris Total Repair 5 Serum, 80ml",
-      "brand": "L'Oréal Paris",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/61M1BB1nvxL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "P010",
-      "title": "NIVEA Soft, Light Moisturizing Cream, 300ml",
-      "brand": "NIVEA",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71FJxI5+MvL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.8
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "P011",
-      "title": "Philips Hair Dryer, 1200W",
-      "brand": "Philips",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71g2LrjynOL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "P012",
-      "title": "Braun Face Mini Hair Remover",
-      "brand": "Braun",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71Jb+PUV0SL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "P013",
-      "title": "Beardo Beard Trimmer, 20 Length Settings",
-      "brand": "Beardo",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/61e4jvuh7kL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 949
-      }
-    },
-    {
-      "product_id": "P014",
-      "title": "Oral-B Cross Action Battery Toothbrush",
-      "brand": "Oral-B",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/61oqpp5Rz8L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 849
-      }
-    },
-    {
-      "product_id": "P015",
-      "title": "Havells HC4045 5-in-1 Multi-Styling Kit",
-      "brand": "Havells",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71VS6ZBuZdL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "P016",
-      "title": "Syska HT200U Beard Trimmer",
-      "brand": "Syska",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/51uEb21a5zL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 749
-      }
-    },
-    {
-      "product_id": "P017",
-      "title": "Panasonic Hair Straightener, 210°C",
-      "brand": "Panasonic",
-      "category": "Personal Care",
-      "image": "https://m.media-amazon.com/images/I/71Z5EqGcdKL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "E001",
-      "title": "Zebronics USB Wired Mouse",
-      "brand": "Zebronics",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71hpB3y4ikL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 299
-      }
-    },
-    {
-      "product_id": "E002",
-      "title": "Cosmic Byte Blazar Wired Gaming Keyboard",
-      "brand": "Cosmic Byte",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71wKZr+z9lL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "E003",
-      "title": "Philips Stereo Earphones with Mic",
-      "brand": "Philips",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61N98vNjGSL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 449
-      }
-    },
-    {
-      "product_id": "E004",
-      "title": "Redgear Cloak Wired Gaming Mouse",
-      "brand": "Redgear",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71GHFovz6LL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "E005",
-      "title": "Sony Wired Headphones",
-      "brand": "Sony",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71h6p4zJMyL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "E006",
-      "title": "Portronics Harmonics Z2 Bluetooth Speaker",
-      "brand": "Portronics",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61B04QayM-L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 449
-      }
-    },
-    {
-      "product_id": "E007",
-      "title": "Ant Audio W56 True Wireless Earbuds",
-      "brand": "Ant Audio",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61ErOfd+9LL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 499
-      }
-    },
-    {
-      "product_id": "E008",
-      "title": "Intex IT-305 USB Powered Multimedia Speaker",
-      "brand": "Intex",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61OnDNC0oEL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.2
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 349
-      }
-    },
-    {
-      "product_id": "E009",
-      "title": "HP USB Wired Keyboard",
-      "brand": "HP",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61XB6wyLqAL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 399
-      }
-    },
-    {
-      "product_id": "E010",
-      "title": "Mi Compact Bluetooth Speaker",
-      "brand": "Mi",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71F3JqfwwDL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 449
-      }
-    },
-    {
-      "product_id": "E011",
-      "title": "Redgear Cloak Wired Gaming Mouse",
-      "brand": "Redgear",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71GHFovz6LL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "E012",
-      "title": "Cosmic Byte Blazar Wired Gaming Keyboard",
-      "brand": "Cosmic Byte",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71wKZr+z9lL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 949
-      }
-    },
-    {
-      "product_id": "E013",
-      "title": "boAt Rockerz 255 Wireless Earphones",
-      "brand": "boAt",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71kVcLO85UL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "E014",
-      "title": "Portronics SoundDrum Wireless Bluetooth Speaker",
-      "brand": "Portronics",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71zzh8f4dUL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "E015",
-      "title": "Philips SHP1900/97 Wired Headphones",
-      "brand": "Philips",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71m1-FUqSoL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "E016",
-      "title": "JBL Go 2 Portable Bluetooth Speaker",
-      "brand": "JBL",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71d3eVqTSBL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.6
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "E017",
-      "title": "Zebronics Zeb-Rush Wired Gaming Headset",
-      "brand": "Zebronics",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71ceF9GADsL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
-    },
-    {
-      "product_id": "E018",
-      "title": "Ant Audio W51 True Wireless Earbuds",
-      "brand": "Ant Audio",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61mP7aYjG4L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.5
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 999
-      }
-    },
-    {
-      "product_id": "E019",
-      "title": "Dell WM126 Wireless Mouse",
-      "brand": "Dell",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/71Z-gicU82L._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.3
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 799
-      }
-    },
-    {
-      "product_id": "E020",
-      "title": "HP USB Wired Keyboard",
-      "brand": "HP",
-      "category": "Electronics",
-      "image": "https://m.media-amazon.com/images/I/61XB6wyLqAL._AC_SX522_.jpg",
-      "rating": {
-        "stars": 4.4
-      },
-      "price": {
-        "currency": "INR",
-        "amount": 899
-      }
+      "product_id": "1",
+      "name": "Masala Papad",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.5,
+      "price": 50.0,
+      "rating": 4.0,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Crispy papad topped with spiced onions and tomatoes.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "2",
+      "name": "Aloo Chaat",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 1.8,
+      "price": 80.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Tangy and spicy fried potatoes tossed with chutneys.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "3",
+      "name": "Pav Bhaji",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 2.0,
+      "price": 90.0,
+      "rating": 4.5,
+      "is_veg": true,
+      "discount_percentage": 7,
+      "description": "Soft buttered pav served with spiced mashed vegetables.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "4",
+      "name": "Samosa",
+      "currency": "INR",
+      "delivery_charge": 10.0,
+      "distance_km": 1.0,
+      "price": 20.0,
+      "rating": 4.6,
+      "is_veg": true,
+      "discount_percentage": 3,
+      "description": "Fried pastry filled with spiced potatoes and peas.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "5",
+      "name": "Veg Sandwich",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 3.5,
+      "price": 70.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Fresh vegetable sandwich with mint chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "6",
+      "name": "Chole Bhature",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 2.7,
+      "price": 99.0,
+      "rating": 4.7,
+      "is_veg": true,
+      "discount_percentage": 6,
+      "description": "Spicy chickpea curry served with fluffy bhature.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "7",
+      "name": "Pani Puri",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 1.5,
+      "price": 40.0,
+      "rating": 4.1,
+      "is_veg": true,
+      "discount_percentage": 12,
+      "description": "Crispy puris filled with spicy water and tangy tamarind chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "8",
+      "name": "Dhokla",
+      "currency": "INR",
+      "delivery_charge": 12.0,
+      "distance_km": 2.3,
+      "price": 60.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Soft, steamed fermented rice and chickpea flour cake.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "9",
+      "name": "Vada Pav",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.0,
+      "price": 25.0,
+      "rating": 4.5,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Mumbai's famous vada pav with spicy chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "10",
+      "name": "Dahi Puri",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 2.5,
+      "price": 90.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Crispy puris topped with yogurt and chutneys.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "11",
+      "name": "Masala Papad",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 4.0,
+      "price": 48.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 6,
+      "description": "Crispy papad topped with spiced onions, tomatoes, and fresh coriander.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "12",
+      "name": "Aloo Chaat",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 3.5,
+      "price": 78.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 12,
+      "description": "Crispy fried potatoes mixed with tangy chutneys and spices.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "13",
+      "name": "Pav Bhaji",
+      "currency": "INR",
+      "delivery_charge": 22.0,
+      "distance_km": 2.8,
+      "price": 85.0,
+      "rating": 4.6,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Buttered pav served with rich, spiced vegetable mash.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "14",
+      "name": "Samosa",
+      "currency": "INR",
+      "delivery_charge": 12.0,
+      "distance_km": 1.2,
+      "price": 18.0,
+      "rating": 4.5,
+      "is_veg": true,
+      "discount_percentage": 4,
+      "description": "Golden fried pastry filled with spiced potatoes and peas.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "15",
+      "name": "Veg Sandwich",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 3.2,
+      "price": 68.0,
+      "rating": 4.1,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Fresh vegetable sandwich with a layer of mint chutney.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "16",
+      "name": "Chole Bhature",
+      "currency": "INR",
+      "delivery_charge": 24.0,
+      "distance_km": 2.6,
+      "price": 99.0,
+      "rating": 4.7,
+      "is_veg": true,
+      "discount_percentage": 11,
+      "description": "Spicy chickpeas served with fluffy fried bhature.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "17",
+      "name": "Pani Puri",
+      "currency": "INR",
+      "delivery_charge": 16.0,
+      "distance_km": 1.8,
+      "price": 42.0,
+      "rating": 4.0,
+      "is_veg": true,
+      "discount_percentage": 13,
+      "description": "Crunchy puris filled with spiced water, chutneys, and potatoes.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "18",
+      "name": "Dhokla",
+      "currency": "INR",
+      "delivery_charge": 14.0,
+      "distance_km": 2.5,
+      "price": 62.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Steamed savory cake made from fermented rice and chickpeas.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "19",
+      "name": "Vada Pav",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.1,
+      "price": 28.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Spicy potato fritter stuffed in a pav served with chutney.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "20",
+      "name": "Dahi Puri",
+      "currency": "INR",
+      "delivery_charge": 19.0,
+      "distance_km": 2.7,
+      "price": 85.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Crispy puris topped with yogurt, chutneys, and spices.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "21",
+      "name": "Kaju Katli",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 4.2,
+      "price": 55.0,
+      "rating": 4.1,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Indians favourite sweets.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "22",
+      "name": "Aloo Chaat",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 3.8,
+      "price": 75.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Spicy potato mix with tangy chutneys.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "23",
+      "name": "Pav Bhaji",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 2.0,
+      "price": 85.0,
+      "rating": 4.6,
+      "is_veg": true,
+      "discount_percentage": 6,
+      "description": "Butter pav with mashed veggies.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "24",
+      "name": "Samosa",
+      "currency": "INR",
+      "delivery_charge": 10.0,
+      "distance_km": 1.5,
+      "price": 20.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 4,
+      "description": "Pastry with spiced potato filling.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "25",
+      "name": "Veg Sandwich",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 3.8,
+      "price": 70.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 7,
+      "description": "Sandwich with fresh veggies and chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "26",
+      "name": "Chole Bhature",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 2.5,
+      "price": 99.0,
+      "rating": 4.8,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Chickpeas with fried bhature.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "27",
+      "name": "Pani Puri",
+      "currency": "INR",
+      "delivery_charge": 16.0,
+      "distance_km": 1.9,
+      "price": 45.0,
+      "rating": 4.1,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Puris with spicy water and tamarind.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "28",
+      "name": "Dhokla",
+      "currency": "INR",
+      "delivery_charge": 12.0,
+      "distance_km": 2.7,
+      "price": 60.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Steamed cake made from rice and chickpeas.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "29",
+      "name": "Vada Pav",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.0,
+      "price": 25.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 4,
+      "description": "Potato fritter in pav with chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "30",
+      "name": "Dahi Puri",
+      "currency": "INR",
+      "delivery_charge": 19.0,
+      "distance_km": 3.0,
+      "price": 85.0,
+      "rating": 4.5,
+      "is_veg": true,
+      "discount_percentage": 12,
+      "description": "Crispy puris with yogurt and chutneys.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "31",
+      "name": "Pizza",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 2.5,
+      "price": 50.0,
+      "rating": 4.1,
+      "is_veg": true,
+      "discount_percentage": 6,
+      "description": "Best Pizza with extra cheeze.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "32",
+      "name": "Aloo Chaat",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.0,
+      "price": 78.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Tangy aloo chaat with chutneys.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "33",
+      "name": "Pav Bhaji",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 3.0,
+      "price": 88.0,
+      "rating": 4.6,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Spicy mashed veggies with buttered pav.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "34",
+      "name": "Samosa",
+      "currency": "INR",
+      "delivery_charge": 10.0,
+      "distance_km": 1.5,
+      "price": 22.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Fried pastry filled with spicy potatoes.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "35",
+      "name": "Veg Sandwich",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 3.5,
+      "price": 75.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 7,
+      "description": "Fresh vegetable sandwich with chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "36",
+      "name": "Chole Bhature",
+      "currency": "INR",
+      "delivery_charge": 22.0,
+      "distance_km": 2.2,
+      "price": 95.0,
+      "rating": 4.8,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Spicy chickpea curry with bhature.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "37",
+      "name": "Pani Puri",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 2.4,
+      "price": 40.0,
+      "rating": 4.0,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Crispy puris with spicy water and chutney.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "38",
+      "name": "Dhokla",
+      "currency": "INR",
+      "delivery_charge": 14.0,
+      "distance_km": 2.5,
+      "price": 60.0,
+      "rating": 4.3,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Steamed fermented cake made from rice.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "39",
+      "name": "Vada Pav",
+      "currency": "INR",
+      "delivery_charge": 12.0,
+      "distance_km": 2.0,
+      "price": 28.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 6,
+      "description": "Spicy potato fritter in pav with chutneys.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "40",
+      "name": "Dahi Puri",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 2.7,
+      "price": 90.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 11,
+      "description": "Crispy puris topped with yogurt, chutneys, and spices.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "41",
+      "name": "Paneer Tikka",
+      "currency": "INR",
+      "delivery_charge": 22.0,
+      "distance_km": 3.2,
+      "price": 150.0,
+      "rating": 4.7,
+      "is_veg": true,
+      "discount_percentage": 10,
+      "description": "Grilled paneer cubes marinated in spices.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "42",
+      "name": "Chicken Lollipop",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 4.0,
+      "price": 180.0,
+      "rating": 4.6,
+      "is_veg": false,
+      "discount_percentage": 12,
+      "description": "Fried chicken wings with spicy coating.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "43",
+      "name": "Mushroom Manchurian",
+      "currency": "INR",
+      "delivery_charge": 18.0,
+      "distance_km": 3.0,
+      "price": 120.0,
+      "rating": 4.5,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Crispy mushrooms in spicy Manchurian sauce.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "44",
+      "name": "Mutton Biryani",
+      "currency": "INR",
+      "delivery_charge": 30.0,
+      "distance_km": 5.5,
+      "price": 250.0,
+      "rating": 4.8,
+      "is_veg": false,
+      "discount_percentage": 14,
+      "description": "Aromatic basmati rice with tender mutton pieces.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "45",
+      "name": "Palak Paneer",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 3.3,
+      "price": 140.0,
+      "rating": 4.4,
+      "is_veg": true,
+      "discount_percentage": 9,
+      "description": "Spinach curry with cottage cheese cubes.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "46",
+      "name": "Butter Chicken",
+      "currency": "INR",
+      "delivery_charge": 25.0,
+      "distance_km": 4.2,
+      "price": 220.0,
+      "rating": 4.7,
+      "is_veg": false,
+      "discount_percentage": 11,
+      "description": "Creamy tomato-based chicken curry.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "47",
+      "name": "Veg Hakka Noodles",
+      "currency": "INR",
+      "delivery_charge": 15.0,
+      "distance_km": 2.8,
+      "price": 90.0,
+      "rating": 4.2,
+      "is_veg": true,
+      "discount_percentage": 5,
+      "description": "Stir-fried noodles with vegetables.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "48",
+      "name": "Fish Fry",
+      "currency": "INR",
+      "delivery_charge": 28.0,
+      "distance_km": 5.0,
+      "price": 200.0,
+      "rating": 4.5,
+      "is_veg": false,
+      "discount_percentage": 13,
+      "description": "Crispy fried fish with tangy seasoning.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
+    },
+    {
+      "product_id": "49",
+      "name": "Paneer Butter Masala",
+      "currency": "INR",
+      "delivery_charge": 20.0,
+      "distance_km": 3.5,
+      "price": 160.0,
+      "rating": 4.6,
+      "is_veg": true,
+      "discount_percentage": 8,
+      "description": "Rich and creamy tomato-based paneer curry.",
+      "image_url": "https://t.ly/LqSJ1",
+      "provider": "Zomato"
+    },
+    {
+      "product_id": "50",
+      "name": "Chicken Shawarma",
+      "currency": "INR",
+      "delivery_charge": 22.0,
+      "distance_km": 3.0,
+      "price": 110.0,
+      "rating": 4.4,
+      "is_veg": false,
+      "discount_percentage": 7,
+      "description": "Juicy chicken slices wrapped in pita with garlic sauce.",
+      "image_url": "https://t.ly/cNW4l",
+      "provider": "Swiggy"
     }
   ]
 }
